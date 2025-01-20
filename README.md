@@ -2,7 +2,7 @@
 
   <h2>Overview</h2>
     <p>
-        Earnings Counter App is a lightweight application designed to help users track multiple income sources and project their earnings over different time periods. The app provides a real-time ticker/counter that updates based on user-inputted income sources. With this tool, users can add income streams, specify earning frequencies, and view projected earnings for hourly, weekly, fortnightly, monthly, and yearly periods.
+        Earnings Counter App is a lightweight application designed to help users track multiple income sources and project their earnings over different time periods. The app provides a real-time ticker/counter that updates based on user-inputted income sources. With this tool, users can add income streams, specify earning frequencies, and view projected earnings for hourly, weekly, fortnightly, monthly, and yearly periods. The timeline for developing this MVP was 1 hour.
     </p>
 
   <h2>Features</h2>
@@ -37,7 +37,7 @@ cd earnings-counter-app</code></pre>
 
   <h2>Tools Used</h2>
     <p>
-        This project was an exploratory exercise combining the power of ChatGPT 4.0 and my development skills to quickly create a Minimum Viable Product (MVP). The goal was to utilize generative AI for efficient code development while integrating it with personal coding knowledge to build a functional desktop app within a short timeframe.
+        This project was an exploratory exercise combining the power of ChatGPT 4.0 and my development skills to create a Minimum Viable Product (MVP) within 1 hour. The goal was to utilize generative AI for efficient code development while integrating it with personal coding knowledge to build a functional desktop app within a short timeframe.
     </p>
 
   <h3>Technologies Used:</h3>
