@@ -33,7 +33,7 @@ cd earnings-counter-app</code></pre>
     </ol>
 
   <p><strong>Note:</strong> Ensure that you have an internet connection to install dependencies if not previously installed.</p>
-  <img src="https://github.com/bergercode/TreasureTicker/blob/main/Earningsapp.jpg" alt="Screenshot of income tracking app" width="500">
+  <img src="https://github.com/bergercode/TreasureTicker/blob/main/cashflow.jpg" alt="Screenshot of income tracking app" width="500">
 
   <h2>Tools Used</h2>
     <p>
