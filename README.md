@@ -2,7 +2,7 @@
 
   <h2>Overview</h2>
     <p>
-        Earnings Counter App is a lightweight application designed to help users track multiple income sources and project their earnings over different time periods. The app provides a real-time ticker/counter that updates based on user-inputted income sources. With this tool, users can add income streams, specify earning frequencies, and view projected earnings for hourly, weekly, fortnightly, monthly, and yearly periods. The timeline for developing this MVP was 1 hour.
+        Earnings Counter App is a lightweight application designed to help users track multiple incoming and outgoing sources of income, and project their earnings over different time periods. The app provides a real-time ticker/counter that updates based on user-inputted income sources. With this tool, users can add income streams, specify earning frequencies, and view projected earnings for hourly, weekly, fortnightly, monthly, and yearly periods. The timeline for developing this MVP was 1 hour.
     </p>
 
   <h2>Features</h2>
@@ -35,16 +35,10 @@ cd earnings-counter-app</code></pre>
   <p><strong>Note:</strong> Ensure that you have an internet connection to install dependencies if not previously installed.</p>
   <img src="https://github.com/bergercode/TreasureTicker/blob/main/cashflow.jpg" alt="Screenshot of income tracking app" width="500">
 
-  <h2>Tools Used</h2>
-    <p>
-        This project was an exploratory exercise combining the power of ChatGPT 4.0 and my development skills to create a Minimum Viable Product (MVP) within 1 hour. The goal was to utilize generative AI for efficient code development while integrating it with personal coding knowledge to build a functional desktop app within a short timeframe.
-    </p>
-
   <h3>Technologies Used:</h3>
     <ul>
         <li><strong>Python:</strong> Core language for building the app.</li>
         <li><strong>PyQt5:</strong> Framework for creating the GUI.</li>
-        <li><strong>ChatGPT 4.0:</strong> Assisted in generating and refining code snippets to expedite development.</li>
     </ul>
 
   <h2>Contributing</h2>
