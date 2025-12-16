@@ -29,7 +29,7 @@ cd cashflow-tracker</code></pre>
         <pre><code>pip install PyQt5</code></pre>
 
   <li><strong>Run the App:</strong> Execute the Python script to launch the app:</li>
-        <pre><code>python earnings_counter_app.py</code></pre>
+        <pre><code>python app.py</code></pre>
     </ol>
 
   <p><strong>Note:</strong> Ensure that you have an internet connection to install dependencies if not previously installed.</p>
