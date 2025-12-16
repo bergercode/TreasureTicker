@@ -22,8 +22,8 @@
   <h3>Steps to Install and Run</h3>
     <ol>
         <li><strong>Clone the Repository:</strong></li>
-        <pre><code>git clone https://github.com/yourusername/earnings-counter-app.git
-cd earnings-counter-app</code></pre>
+        <pre><code>git clone https://github.com/bergercode/cashflow-tracker.git
+cd cashflow-tracker</code></pre>
         
   <li><strong>Install Required Dependencies:</strong> Use pip to install the required libraries. Run the following command:</li>
         <pre><code>pip install PyQt5</code></pre>
